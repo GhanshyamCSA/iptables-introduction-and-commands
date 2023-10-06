@@ -1,7 +1,7 @@
 title: MOST USED IPTABLES COMMANDS
-#logo:
-description: iptables-introduction and commands
-#show_downloads: true
+logo: "C:\Users\ghans\Downloads\pngegg.png"
+description: iptables-A Linux bsaed Firewall Tool
+show_downloads: true
 #theme: jeckyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
