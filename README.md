@@ -1,5 +1,5 @@
 
-![pngegg](https://github.com/GhanshyamCSA/iptables-introduction-and-commands/assets/7269200/115646e1-5edc-40a6-9ddb-11c8c3ff4ee8)
+![LinIPtablesFirewall](https://github.com/GhanshyamCSA/iptables-introduction-and-commands/assets/7269200/488161cf-7030-470d-aebc-4a99bb7993f5)
 
 In this article you will see some useful commands for linux iptables.but before directly using the commands let’s learn what iptables is and what it does.
 
