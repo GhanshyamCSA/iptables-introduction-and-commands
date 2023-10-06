@@ -1,6 +1,3 @@
-# iptables-introduction-and-commands
-### iptables- A linux firewall tool
-
                #Most used iptables commands
 
 
