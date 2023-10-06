@@ -1,6 +1,9 @@
 # iptables-introduction-and-commands
+### iptables- A linux firewall tool
 
                Most used iptables commands
+
+
 In this article you will see some useful commands for linux iptables.but before directly using the commands let’s learn what iptables is and what it does.
 
 What is iptables?
